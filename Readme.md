@@ -3,7 +3,7 @@
 ## Overview 
 A 5 day effort to make our #chatGPT bot hallucinate as often as possible - while answering questions on our API docs. Our motivation? Test out [BetterShot](https://github.com/ClerkieAI/bettershot) our new error monitoring system 🚨🚨🚨
 
-![image](https://giphy.com/gifs/theoffice-nbc-the-office-tv-FVHnrgMHQYC4MkNXnZ)
+![The Office GIF](https://media.giphy.com/media/FVHnrgMHQYC4MkNXnZ/giphy.gif)
 
 ## How to Participate 
 To participate in the challenge, follow the steps outlined below: 
