@@ -1,7 +1,7 @@
-# 5 Day Challenge: How to Get Our Chatgpt Bot to Hallucinate
+# Break-Our-Bot Challenge
 
 ## Overview 
-This 5-day challenge is designed to test your knowledge of our API docs, while giving you the chance to have some fun with our chatgpt bot. The goal of the challenge is to get the bot to hallucinate as many times as possible while answering questions about our API docs. 
+A 5 day effort to make our #chatGPT bot hallucinate as often as possible - while answering questions on our API docs. Our motivation? Test out [BetterShot](https://github.com/ClerkieAI/bettershot) our new error monitoring system 🚨🚨🚨
 
 ## How to Participate 
 To participate in the challenge, follow the steps outlined below: 
