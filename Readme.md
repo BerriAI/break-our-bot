@@ -1,4 +1,4 @@
-# Break-Our-Bot Challenge
+# Break-Our-Bot Challenge 🥁 ⚒
 
 ## Overview 
 A 5 day effort to make our #chatGPT bot hallucinate as often as possible - while answering questions on our API docs. Our motivation? Test out [BetterShot](https://github.com/ClerkieAI/bettershot) our new error monitoring system 🚨🚨🚨
